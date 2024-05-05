@@ -1,1 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES	
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+
+Al Quran Al Kareem | | https://i.imgur.com/OKpxQef.jpg | Al Quran Al Kareem - [Channel 93].id
+https://www.youtube.com/SaudiQuranTv/live
