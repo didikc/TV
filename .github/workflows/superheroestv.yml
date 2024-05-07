@@ -5,7 +5,7 @@ name: Disney Junior Super Heroes TV
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '3 0/1 * * *'
+    - cron: '8 0/1 * * *'
     
   pull_request:
     branches:
