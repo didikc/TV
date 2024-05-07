@@ -33,7 +33,7 @@ jobs:
       # Runs a set of commands using the runners shell 
       - name: config
         run: |
-          git pull
+          git pull origin main
           git config --global user.email "didik.cloud@gmail.com"
           git config --global user.name "didikc"
       
@@ -52,5 +52,5 @@ jobs:
       - name: commit & push
         run: |
           git commit -m "Link updated"
-          git push
+          git push origin main
 
