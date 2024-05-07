@@ -5,7 +5,7 @@ name: Disney Junior Super Heroes TV
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/3 * * *'
+    - cron: '0 0/1 * * *'
     
   pull_request:
     branches:
@@ -52,4 +52,4 @@ jobs:
       - name: commit & push
         run: |
           git commit -m "Link updated"
-          git push origin main
+          git push -f origin main
