@@ -8,3 +8,16 @@ This repo automatically converts live youtube channel into a single .m3u8 link a
 
 ![Static Badge](https://img.shields.io/badge/Live-Al_Sunnah_Al_Nabawiyah_TV-silver?logo=youtube&labelColor=red)
 
+![Static Badge](https://img.shields.io/badge/Live-Disney_Junior_Super_Heroes_TV-purple?logo=youtube&labelColor=red)
+
+![Static Badge](https://img.shields.io/badge/Live-Disney_Junior_Winnie_The_Pooh_TV-orange?logo=youtube&labelColor=red)
+
+![Static Badge](https://img.shields.io/badge/Live-Disney_Junior_Spidey_TV-salmon?logo=youtube&labelColor=red)
+
+![Static Badge](https://img.shields.io/badge/Live-Disney_Junior_Bluey_TV-royalblue?logo=youtube&labelColor=red)
+
+![Static Badge](https://img.shields.io/badge/Live-Disney_Junior_Mickey_Vlogs_TV-mediumvioletred?logo=youtube&labelColor=red)
+
+![Static Badge](https://img.shields.io/badge/Live-Disney_Junior_Minnie_Bow_Toons_TV-deeppink?logo=youtube&labelColor=red)
+
+![Static Badge](https://img.shields.io/badge/Live-Disney_Junior_Mickey_Mouse_Clubhouse_TV-limegreen?logo=youtube&labelColor=red)
