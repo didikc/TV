@@ -5,7 +5,7 @@ name: Disney Junior Minnie Bow Toons TV
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/1 * * *'
+    - cron: '4 0/1 * * *'
     
   pull_request:
     branches:
