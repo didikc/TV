@@ -3,6 +3,9 @@
 # Live Youtube TV 📺
 This repo automatically converts live youtube channel into a single .m3u8 link and keeps them updated. 
 
+Special thanks to:
+- @iftyER
+  
 ## Available channel ▶️
 ![Static Badge](https://img.shields.io/badge/Live-Al_Quran_Al_Kareem_TV-gold?logo=youtube&labelColor=red)
 
