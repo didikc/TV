@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Clubhouse TV
+name: Mickey Clubhouse TV
 
 # Controls when the action will run. 
 on:
@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x clubhousetv.sh
-          ./clubhousetv.sh
+          chmod +x mickeyclubhousetv.sh
+          ./mickeyclubhousetv.sh
         
       - name: git add
         run: |
