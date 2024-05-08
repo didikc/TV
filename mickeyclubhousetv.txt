@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Clubhouse TV | | | |
+Mickey Clubhouse TV | | | |
 https://www.youtube.com/watch?v=Dkkp4KfdGPY
