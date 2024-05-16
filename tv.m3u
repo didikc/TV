@@ -1,0 +1,74 @@
+#EXTM3U x-tvg-url="https://www.bevy.be/generate/slnBtvBNrn.xml" refresh="3"
+
+#EXTINF:0 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png" ,Disney Junior Bluey ᴴᴰ
+https://ythls-v2.onrender.com/video/x7I9aLJ4hKo.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png" ,Disney Junior Mickey Mouse Clubhouse ᴴᴰ
+https://ythls-v2.onrender.com/video/Dkkp4KfdGPY.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png" ,Disney Junior Super Heroes ᴴᴰ
+https://ythls-v2.onrender.com/video/7y3f715dJDI.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png" ,Disney Junior Mickey Vlogs ᴴᴰ
+https://ythls-v2.onrender.com/video/0L6EvgWotfI.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png" ,Disney Junior Winnie The Pooh ᴴᴰ
+https://ythls-v2.onrender.com/video/UmdMTatmQTQ.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png" ,Disney Junior Spidey ᴴᴰ
+https://ythls-v2.onrender.com/video/DulkvDhBx08.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Disney-Junior-logo.png" ,Disney Junior Minnie Bow Toons ᴴᴰ
+https://ythls-v2.onrender.com/video/OjlaUkllTss.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png" ,CNN Indonesia ˢᵈ 🇮🇩 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w314563790_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png" ,CNN Indonesia ˢᵈ 🇮🇩
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w314563790_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CNN_Indonesia.png" ,CNN Indonesia ᴴᴰ 🇮🇩
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w314563790_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" ,BeritaSatu ᴴᴰ
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/82.jpg" ,Al Quran Al Kareem ˢᵈ 🇸🇦
+https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
+
+#EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-logo="https://raw.githubusercontent.com/m3ulink/logo/main/82.jpg" ,Al Quran Al Kareem ˢᵈ 🇸🇦
+https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+
+#EXTINF:-1 tvg-id="Saudi Sunna TV HD.ar" tvg-logo="https://i.postimg.cc/BnjYZS5r/sunnahtv.png" ,Al Sunnah (Medina) ᴴᴰ 🇸🇦
+https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
+
+#EXTINF:-1 tvg-id="Rodja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b3/Rodja_TV.png" ,Rodja TV ˢᵈ
+https://rodjatv.com/rodjatv/live_360p878kbs/index.m3u8
+
+#EXTINF:-1 tvg-id="Rodja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b3/Rodja_TV.png" ,Rodja TV ᴴᴰ
+https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" ,Trans 7 ˢᵈ
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w2142470751_b344100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" ,Trans 7 ᴴᴰ
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1569758602_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" ,Trans TV ˢᵈ
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w665471676_b344100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" ,Trans TV ᴴᴰ
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1561775419_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera English - [Channel 331].id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/640px-Aljazeera_eng.svg.png" ,Al Jazeera English ᴴᴰ 🇦🇪
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNInternationalEuropeHD.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/480px-CNN_International_logo.svg.png" ,CNN International ᴴᴰ 🇪🇺
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCNewsHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/512px-BBC_News_2022_%28Alt%29.svg.png" ,BBC ˢᵈ 🇬🇧
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsHD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/640px-Sky_News_logo.svg.png" ,Sky News ᴴᴰ 🇦🇺
+https://i.mjh.nz/sky-news-now.m3u8
+
